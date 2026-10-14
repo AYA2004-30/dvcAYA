@@ -1,6 +1,6 @@
 prepare:
   split: 0.20
-  seed: 20170428
+  seed: 2git add params.yaml dvc.lock0170428
 
 featurize:
   max_features: 100
@@ -8,6 +8,6 @@ featurize:
 
 train:
   seed: 20170428
-  n_est: 50
+  n_est: 70
   min_split: 0.01
 
